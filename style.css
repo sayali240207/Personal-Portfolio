@@ -98,47 +98,6 @@ h2 {
 }
 
 
-.projects {
-    background: #fff;
-    padding: 3rem;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-}
-
-.project-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-}
-
-#projectcartmain{
-    background: #f3e7e9;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-}
-.project-card {
-   
-    display:flex;
-    flex-direction: row;
-    
-}
-
-.project-img {
-    padding: 0.5rem;
-    
-    width: 80%;
-    height: 150px;
-    object-fit: contain;
-    margin: 0 auto;
-    display: block;
-    border-radius: 8px;
-}
-
-.project-content {  
-    margin-top: 20px; 
-    padding: 1.5rem;
-    text-align: center;
-}
 
 .contact {
     background: #f9f9f9;
